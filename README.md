@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-   <a href="https://www.youtube.com/watch?v=FpfHmAkRVK4&t=12s" target="_blank"><img src="https://i.ibb.co/QPCJQTV/c.png" alt="Main-Cover" border="0"></a>
+   <a href="https://www.youtube.com/watch?v=FpfHmAkRVK4&t=12s" target="_blank"><img src="https://github.com/user-attachments/assets/30566e80-08d9-4f4c-b9a8-faa3215e6a62" alt="Main-Cover" border="0"></a>
   <br />
 
 # Learning C++
