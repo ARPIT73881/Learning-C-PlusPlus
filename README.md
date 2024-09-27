@@ -31,6 +31,6 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## 🫡 Credits
+## <a name="credits"> 🫡 Credits</a>
 
 This respository was inspired by the work of [Hitesh Choudhary](https://chaicode.com/). Their creativity and innovation motivated me to build my own version.
